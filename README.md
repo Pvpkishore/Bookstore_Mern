@@ -27,10 +27,8 @@ An online bookstore built using the **MERN stack** that allows users to access b
 
 ```
 
-![Homepage Dark Mode](<img width="1919" height="821" alt="Bookstoreimg" src="https://github.com/user-attachments/assets/60ae4d3e-34a2-4224-befb-8412996da0f5" />
-)
-![Homepage Lightmode](<img width="1884" height="813" alt="Screenshot 2025-01-06 143933" src="https://github.com/user-attachments/assets/644cca4d-2810-45b6-ba30-8cc5833b319c" />
-)
+![Homepage Dark Mode](<img width="1919" height="821" alt="Bookstoreimg" src="https://github.com/user-attachments/assets/60ae4d3e-34a2-4224-befb-8412996da0f5" />)
+![Homepage Lightmode](<img width="1884" height="813" alt="Screenshot 2025-01-06 143933" src="https://github.com/user-attachments/assets/644cca4d-2810-45b6-ba30-8cc5833b319c"/>)
 
 ````
 
@@ -96,6 +94,3 @@ This project is licensed under the MIT License.
 
 > Made with ❤️ using MERN stack
 
-```
-
----
