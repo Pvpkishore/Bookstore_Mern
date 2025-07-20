@@ -25,7 +25,7 @@ An online bookstore built using the **MERN stack** that allows users to access b
 
 ### 🌑 Dark Mode
 
-![Homepage Dark Mode](https://github.com/user-attachments/assets/60ae4d3e-34a2-4224-befb-8412996da0f5)
+![Homepage Dark Mode](https://github.com/Pvpkishore/Bookstore_Mern/blob/main/Bookstoreimg.png)
 
 ### 🌕 Light Mode
 
