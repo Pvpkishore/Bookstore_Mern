@@ -1,5 +1,4 @@
 
-
 ````markdown
 # 📚 Online Bookstore
 
@@ -29,7 +28,7 @@ An online bookstore built using the **MERN stack** that allows users to access b
 
 ### 🌕 Light Mode
 
-![Homepage Light Mode](./Screenshot%202025-01-06%20143933.png)
+![Homepage Light Mode](https://github.com/user-attachments/assets/644cca4d-2810-45b6-ba30-8cc5833b319c)
 
 ## ⚙️ Getting Started
 
