@@ -1,5 +1,4 @@
 
-````markdown
 # 📚 Online Bookstore
 
 An online bookstore built using the **MERN stack** that allows users to access both free and premium books with secure authentication and personalized session management.
